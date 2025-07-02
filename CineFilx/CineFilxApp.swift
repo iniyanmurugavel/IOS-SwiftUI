@@ -11,7 +11,7 @@ import SwiftUI
 struct CineFilxApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
     }
 }
